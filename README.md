@@ -1,2 +1,2 @@
-# docker_postgres_CLI
-command_line_for_run_postgreSQL_db_using_docker
+# docker_CLI_CREATING_DATABASE
+Docker CLI for creating database
